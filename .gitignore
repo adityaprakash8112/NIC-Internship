@@ -104,3 +104,6 @@ __pycache__/
 # Temporary files
 *.tmp
 uploads/
+
+# Nested git repositories
+NIC-Internship/
